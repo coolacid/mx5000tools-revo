@@ -1,0 +1,28 @@
+2007-01-14  Olivier Crete  <tester@tester.ca>
+	* Try to load uinput module in iniscript
+
+2007-01-07  Olivier Crete  <tester@tester.ca>
+	* Added initscript for Gentoo
+
+2007-01-01  Olivier Crete  <tester@tester.ca>
+	* Open uinput once, not 4 times
+	* Make Video key disable/enable the media pad
+
+2006-12-30  Olivier Crete  <tester@tester.ca>
+	* Fix little oops, (by Corentin Chary)
+	
+2006-12-21  Olivier Crete  <tester@tester.ca>
+	* Fix update code in the tool, add examples in README
+	
+2006-12-20  Olivier Crete  <tester@tester.ca>
+	* Ooops, forgot to actually call the kbd_opts function
+	
+2006-12-04  Olivier Crete  <tester@tester.ca>
+	* Add image displaying support
+	* Add function to convert from pbm to mx5000 bitmap format using netpbm
+	* Version 0.1.1
+
+2006-12-03  Olivier Crete  <tester@tester.ca>
+
+	* With libmx5000, mx5000-tool and mx5000d
+
